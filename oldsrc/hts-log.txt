@@ -1,0 +1,204 @@
+HTTrack3.48-22+htsswf+htsjava launched on Fri, 02 Dec 2016 10:06:07 at http://www.midiplus.com.tw +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2t%Pns2u1%B%s%uN0%I0p7BaK0H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.midiplus.com.tw -O1 "C:\My Web Sites\midiplus-web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:06:49	Error: 	"Not Found" (404) at link www.midiplus.com.tw/index.files/editdata.mso (from www.midiplus.com.tw/)
+10:16:35	Error: 	"Not Found" (404) at link www.midiplus.com.tw/KeyboardController.files/editdata.mso (from www.midiplus.com.tw/KeyboardController.htm)
+10:18:51	Error: 	"Not Found" (404) at link www.midiplus.com.tw/midiinterface.files/editdata.mso (from www.midiplus.com.tw/midiinterface.htm)
+10:19:38	Error: 	"Not Found" (404) at link www.midiplus.com.tw/AudioInterface.files/editdata.mso (from www.midiplus.com.tw/AudioInterface.htm)
+10:20:25	Error: 	"Not Found" (404) at link www.midiplus.com.tw/Sound module.files/editdata.mso (from www.midiplus.com.tw/Sound module.htm)
+10:20:43	Error: 	"Not Found" (404) at link www.midiplus.com.tw/DigitalPiano.files/editdata.mso (from www.midiplus.com.tw/DigitalPiano.htm)
+10:20:59	Error: 	"Not Found" (404) at link www.midiplus.com.tw/DrumComponent.files/editdata.mso (from www.midiplus.com.tw/DrumComponent.htm)
+10:22:09	Error: 	"Not Found" (404) at link www.midiplus.com.tw/Accessories.files/editdata.mso (from www.midiplus.com.tw/Accessories.htm)
+10:22:17	Error: 	"Not Found" (404) at link www.midiplus.com.tw/MIDIPLUS-Download.files/editdata.mso (from www.midiplus.com.tw/MIDIPLUS-Download.htm)
+10:22:18	Error: 	"Not Found" (404) at link www.midiplus.com.tw/company.files/editdata.mso (from www.midiplus.com.tw/company.htm)
+10:22:18	Error: 	"Not Found" (404) at link www.midiplus.com.tw/news.files/editdata.mso (from www.midiplus.com.tw/news.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/akm320.files/editdata.mso (from www.midiplus.com.tw/akm320.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/AKM322.files/editdata.mso (from www.midiplus.com.tw/AKM322.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/minicontrol.files/editdata.mso (from www.midiplus.com.tw/minicontrol.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/EasyPiano.files/editdata.mso (from www.midiplus.com.tw/EasyPiano.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/ak490.files/editdata.mso (from www.midiplus.com.tw/ak490.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/BK492.files/editdata.mso (from www.midiplus.com.tw/BK492.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/ex610.files/editdata.mso (from www.midiplus.com.tw/ex610.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/i61.files/editdata.mso (from www.midiplus.com.tw/i61.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/origin62.files/editdata.mso (from www.midiplus.com.tw/origin62.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/X6.files/editdata.mso (from www.midiplus.com.tw/X6.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/Classic 49.files/editdata.mso (from www.midiplus.com.tw/Classic 49.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/Classic 25.files/editdata.mso (from www.midiplus.com.tw/Classic 25.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/X8.files/editdata.mso (from www.midiplus.com.tw/X8.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/Dreamer88.files/editdata.mso (from www.midiplus.com.tw/Dreamer88.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/Dreamer61.files/editdata.mso (from www.midiplus.com.tw/Dreamer61.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/ilink.files/editdata.mso (from www.midiplus.com.tw/ilink.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/MIDIlink_mini.files/editdata.mso (from www.midiplus.com.tw/MIDIlink_mini.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/tbox2x2.files/editdata.mso (from www.midiplus.com.tw/tbox2x2.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/midi4x4.files/editdata.mso (from www.midiplus.com.tw/midi4x4.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/MIDI2x2.files/editdata.mso (from www.midiplus.com.tw/MIDI2x2.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/AudiolinkPLUS4x4.files/editdata.mso (from www.midiplus.com.tw/AudiolinkPLUS4x4.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/smartface.files/editdata.mso (from www.midiplus.com.tw/smartface.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/AudiolinkIII.files/editdata.mso (from www.midiplus.com.tw/AudiolinkIII.htm)
+10:23:33	Error: 	"Not Found" (404) at link www.midiplus.com.tw/Studio M.files/editdata.mso (from www.midiplus.com.tw/Studio M.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/Studio 2.files/editdata.mso (from www.midiplus.com.tw/Studio 2.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/miniEngine.files/editdata.mso (from www.midiplus.com.tw/miniEngine.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/S-Engine.files/editdata.mso (from www.midiplus.com.tw/S-Engine.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/xp88c.files/editdata.mso (from www.midiplus.com.tw/xp88c.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/e9.files/editdata.mso (from www.midiplus.com.tw/e9.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/Z10.files/editdata.mso (from www.midiplus.com.tw/Z10.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/Z11.files/editdata.mso (from www.midiplus.com.tw/Z11.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/Z12.files/editdata.mso (from www.midiplus.com.tw/Z12.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/ED6.files/editdata.mso (from www.midiplus.com.tw/ED6.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/ED7.files/editdata.mso (from www.midiplus.com.tw/ED7.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/ED8.files/editdata.mso (from www.midiplus.com.tw/ED8.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/ED9.files/editdata.mso (from www.midiplus.com.tw/ED9.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/ED9 pro.files/editdata.mso (from www.midiplus.com.tw/ED9 pro.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/sp2.files/editdata.mso (from www.midiplus.com.tw/sp2.htm)
+10:23:34	Error: 	"Not Found" (404) at link www.midiplus.com.tw/Musical.files/editdata.mso (from www.midiplus.com.tw/Musical.htm)
+10:23:58	Error: 	"" (404) at link www.midiplus.com.tw/index.files/editdata.mso (from www.midiplus.com.tw/)
+10:23:58	Warning: 	HTML file (2028 bytes) retransferred due to lack of cache: www.midiplus.com.tw/index.files/header.htm
+10:24:00	Warning: 	HTML file (120932 bytes) retransferred due to lack of cache: www.midiplus.com.tw/KeyboardController.htm
+10:24:03	Warning: 	HTML file (59011 bytes) retransferred due to lack of cache: www.midiplus.com.tw/index.htm
+10:24:06	Error: 	"" (404) at link www.midiplus.com.tw/KeyboardController.files/editdata.mso (from www.midiplus.com.tw/KeyboardController.htm)
+10:24:06	Warning: 	HTML file (2065 bytes) retransferred due to lack of cache: www.midiplus.com.tw/KeyboardController.files/header.htm
+10:24:07	Warning: 	HTML file (72901 bytes) retransferred due to lack of cache: www.midiplus.com.tw/akm320.htm
+10:24:10	Warning: 	HTML file (84539 bytes) retransferred due to lack of cache: www.midiplus.com.tw/AKM322.htm
+10:24:12	Warning: 	HTML file (86314 bytes) retransferred due to lack of cache: www.midiplus.com.tw/minicontrol.htm
+10:24:15	Warning: 	HTML file (82142 bytes) retransferred due to lack of cache: www.midiplus.com.tw/EasyPiano.htm
+10:24:17	Warning: 	HTML file (70837 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ak490.htm
+10:24:19	Warning: 	HTML file (73516 bytes) retransferred due to lack of cache: www.midiplus.com.tw/BK492.htm
+10:24:23	Warning: 	HTML file (78600 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ex610.htm
+10:24:26	Warning: 	HTML file (69145 bytes) retransferred due to lack of cache: www.midiplus.com.tw/i61.htm
+10:24:29	Warning: 	HTML file (71410 bytes) retransferred due to lack of cache: www.midiplus.com.tw/origin62.htm
+10:24:31	Warning: 	HTML file (69828 bytes) retransferred due to lack of cache: www.midiplus.com.tw/X6.htm
+10:24:34	Warning: 	HTML file (69330 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Classic 49.htm
+10:24:36	Warning: 	HTML file (67497 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Classic 25.htm
+10:24:38	Warning: 	HTML file (70147 bytes) retransferred due to lack of cache: www.midiplus.com.tw/X8.htm
+10:24:41	Warning: 	HTML file (73617 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Dreamer88.htm
+10:24:43	Warning: 	HTML file (73481 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Dreamer61.htm
+10:24:46	Error: 	"" (404) at link www.midiplus.com.tw/midiinterface.files/editdata.mso (from www.midiplus.com.tw/midiinterface.htm)
+10:24:46	Warning: 	HTML file (2050 bytes) retransferred due to lack of cache: www.midiplus.com.tw/midiinterface.files/header.htm
+10:24:47	Warning: 	HTML file (59511 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ilink.htm
+10:24:49	Warning: 	HTML file (70331 bytes) retransferred due to lack of cache: www.midiplus.com.tw/MIDIlink_mini.htm
+10:24:52	Warning: 	HTML file (66495 bytes) retransferred due to lack of cache: www.midiplus.com.tw/tbox2x2.htm
+10:24:54	Warning: 	HTML file (64306 bytes) retransferred due to lack of cache: www.midiplus.com.tw/midi4x4.htm
+10:24:56	Warning: 	HTML file (71840 bytes) retransferred due to lack of cache: www.midiplus.com.tw/MIDI2x2.htm
+10:24:59	Error: 	"" (404) at link www.midiplus.com.tw/AudioInterface.files/editdata.mso (from www.midiplus.com.tw/AudioInterface.htm)
+10:24:59	Warning: 	HTML file (2053 bytes) retransferred due to lack of cache: www.midiplus.com.tw/AudioInterface.files/header.htm
+10:25:00	Warning: 	HTML file (79921 bytes) retransferred due to lack of cache: www.midiplus.com.tw/AudiolinkPLUS4x4.htm
+10:25:03	Warning: 	HTML file (73819 bytes) retransferred due to lack of cache: www.midiplus.com.tw/smartface.htm
+10:25:06	Warning: 	HTML file (74399 bytes) retransferred due to lack of cache: www.midiplus.com.tw/AudiolinkIII.htm
+10:25:09	Warning: 	HTML file (76086 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Studio M.htm
+10:25:12	Warning: 	HTML file (77633 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Studio 2.htm
+10:25:15	Error: 	"" (404) at link www.midiplus.com.tw/Sound module.files/editdata.mso (from www.midiplus.com.tw/Sound module.htm)
+10:25:15	Warning: 	HTML file (2049 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Sound module.files/header.htm
+10:25:16	Warning: 	HTML file (77113 bytes) retransferred due to lack of cache: www.midiplus.com.tw/miniEngine.htm
+10:25:19	Warning: 	HTML file (81732 bytes) retransferred due to lack of cache: www.midiplus.com.tw/S-Engine.htm
+10:25:22	Error: 	"" (404) at link www.midiplus.com.tw/DigitalPiano.files/editdata.mso (from www.midiplus.com.tw/DigitalPiano.htm)
+10:25:22	Warning: 	HTML file (2047 bytes) retransferred due to lack of cache: www.midiplus.com.tw/DigitalPiano.files/header.htm
+10:25:23	Warning: 	HTML file (84879 bytes) retransferred due to lack of cache: www.midiplus.com.tw/xp88c.htm
+10:25:25	Warning: 	HTML file (102959 bytes) retransferred due to lack of cache: www.midiplus.com.tw/e9.htm
+10:25:28	Error: 	"" (404) at link www.midiplus.com.tw/DrumComponent.files/editdata.mso (from www.midiplus.com.tw/DrumComponent.htm)
+10:25:28	Warning: 	HTML file (2050 bytes) retransferred due to lack of cache: www.midiplus.com.tw/DrumComponent.files/header.htm
+10:25:30	Warning: 	HTML file (69111 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Z10.htm
+10:25:33	Warning: 	HTML file (69196 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Z11.htm
+10:25:36	Warning: 	HTML file (69076 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Z12.htm
+10:25:40	Warning: 	HTML file (70280 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ED6.htm
+10:25:42	Warning: 	HTML file (69778 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ED7.htm
+10:25:45	Warning: 	HTML file (69017 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ED8.htm
+10:25:48	Warning: 	HTML file (68872 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ED9.htm
+10:25:51	Warning: 	HTML file (68670 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ED9 pro.htm
+10:25:54	Error: 	"" (404) at link www.midiplus.com.tw/Accessories.files/editdata.mso (from www.midiplus.com.tw/Accessories.htm)
+10:25:54	Warning: 	HTML file (2044 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Accessories.files/header.htm
+10:25:55	Warning: 	HTML file (63728 bytes) retransferred due to lack of cache: www.midiplus.com.tw/sp2.htm
+10:25:58	Error: 	"" (404) at link www.midiplus.com.tw/MIDIPLUS-Download.files/editdata.mso (from www.midiplus.com.tw/MIDIPLUS-Download.htm)
+10:25:58	Warning: 	HTML file (2062 bytes) retransferred due to lack of cache: www.midiplus.com.tw/MIDIPLUS-Download.files/header.htm
+10:26:01	Warning: 	Retry after error -2 (Receive Time Out) at link www.midiplus.com.tw/MIDIPLUS-Download.files/Audio driver/Neutron/Neutron_AL3_2.9.86.9_no_swap.zip (from www.midiplus.com.tw/MIDIPLUS-Download.htm)
+10:26:38	Error: 	"" (404) at link www.midiplus.com.tw/company.files/editdata.mso (from www.midiplus.com.tw/company.htm)
+10:26:38	Warning: 	HTML file (2032 bytes) retransferred due to lack of cache: www.midiplus.com.tw/company.files/header.htm
+10:26:39	Error: 	"" (404) at link www.midiplus.com.tw/news.files/editdata.mso (from www.midiplus.com.tw/news.htm)
+10:26:39	Warning: 	HTML file (2047 bytes) retransferred due to lack of cache: www.midiplus.com.tw/news.files/header.htm
+10:26:41	Warning: 	HTML file (62909 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Musical.htm
+10:26:44	Error: 	"" (404) at link www.midiplus.com.tw/akm320.files/editdata.mso (from www.midiplus.com.tw/akm320.htm)
+10:26:47	Warning: 	HTML file (2029 bytes) retransferred due to lack of cache: www.midiplus.com.tw/akm320.files/header.htm
+10:26:49	Error: 	"" (404) at link www.midiplus.com.tw/AKM322.files/editdata.mso (from www.midiplus.com.tw/AKM322.htm)
+10:26:49	Warning: 	HTML file (2029 bytes) retransferred due to lack of cache: www.midiplus.com.tw/AKM322.files/header.htm
+10:26:50	Error: 	"" (404) at link www.midiplus.com.tw/minicontrol.files/editdata.mso (from www.midiplus.com.tw/minicontrol.htm)
+10:26:50	Warning: 	HTML file (2044 bytes) retransferred due to lack of cache: www.midiplus.com.tw/minicontrol.files/header.htm
+10:26:51	Error: 	"" (404) at link www.midiplus.com.tw/EasyPiano.files/editdata.mso (from www.midiplus.com.tw/EasyPiano.htm)
+10:26:51	Warning: 	HTML file (2062 bytes) retransferred due to lack of cache: www.midiplus.com.tw/EasyPiano.files/header.htm
+10:26:52	Error: 	"" (404) at link www.midiplus.com.tw/ak490.files/editdata.mso (from www.midiplus.com.tw/ak490.htm)
+10:26:52	Warning: 	HTML file (2026 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ak490.files/header.htm
+10:26:54	Error: 	"" (404) at link www.midiplus.com.tw/BK492.files/editdata.mso (from www.midiplus.com.tw/BK492.htm)
+10:26:54	Warning: 	HTML file (2026 bytes) retransferred due to lack of cache: www.midiplus.com.tw/BK492.files/header.htm
+10:26:55	Error: 	"" (404) at link www.midiplus.com.tw/ex610.files/editdata.mso (from www.midiplus.com.tw/ex610.htm)
+10:26:55	Warning: 	HTML file (2050 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ex610.files/header.htm
+10:26:56	Error: 	"" (404) at link www.midiplus.com.tw/i61.files/editdata.mso (from www.midiplus.com.tw/i61.htm)
+10:26:56	Warning: 	HTML file (2020 bytes) retransferred due to lack of cache: www.midiplus.com.tw/i61.files/header.htm
+10:26:57	Error: 	"" (404) at link www.midiplus.com.tw/origin62.files/editdata.mso (from www.midiplus.com.tw/origin62.htm)
+10:26:57	Warning: 	HTML file (2035 bytes) retransferred due to lack of cache: www.midiplus.com.tw/origin62.files/header.htm
+10:26:58	Error: 	"" (404) at link www.midiplus.com.tw/X6.files/editdata.mso (from www.midiplus.com.tw/X6.htm)
+10:26:58	Warning: 	HTML file (2017 bytes) retransferred due to lack of cache: www.midiplus.com.tw/X6.files/header.htm
+10:27:00	Error: 	"" (404) at link www.midiplus.com.tw/Classic 49.files/editdata.mso (from www.midiplus.com.tw/Classic 49.htm)
+10:27:00	Warning: 	HTML file (2043 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Classic 49.files/header.htm
+10:27:02	Error: 	"" (404) at link www.midiplus.com.tw/Classic 25.files/editdata.mso (from www.midiplus.com.tw/Classic 25.htm)
+10:27:02	Warning: 	HTML file (2043 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Classic 25.files/header.htm
+10:27:04	Error: 	"" (404) at link www.midiplus.com.tw/X8.files/editdata.mso (from www.midiplus.com.tw/X8.htm)
+10:27:04	Warning: 	HTML file (2017 bytes) retransferred due to lack of cache: www.midiplus.com.tw/X8.files/header.htm
+10:27:05	Error: 	"" (404) at link www.midiplus.com.tw/Dreamer88.files/editdata.mso (from www.midiplus.com.tw/Dreamer88.htm)
+10:27:05	Warning: 	HTML file (2088 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Dreamer88.files/header.htm
+10:27:06	Error: 	"" (404) at link www.midiplus.com.tw/Dreamer61.files/editdata.mso (from www.midiplus.com.tw/Dreamer61.htm)
+10:27:06	Warning: 	HTML file (2038 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Dreamer61.files/header.htm
+10:27:08	Error: 	"" (404) at link www.midiplus.com.tw/ilink.files/editdata.mso (from www.midiplus.com.tw/ilink.htm)
+10:27:09	Error: 	"Multiple Choices" (300) at link www.midiplus.com.tw/ilink.files/item0011.xml (from www.midiplus.com.tw/ilink.htm)
+10:27:09	Warning: 	HTML file (2026 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ilink.files/header.htm
+10:27:11	Error: 	"" (404) at link www.midiplus.com.tw/MIDIlink_mini.files/editdata.mso (from www.midiplus.com.tw/MIDIlink_mini.htm)
+10:27:11	Warning: 	HTML file (2050 bytes) retransferred due to lack of cache: www.midiplus.com.tw/MIDIlink_mini.files/header.htm
+10:27:13	Error: 	"" (404) at link www.midiplus.com.tw/tbox2x2.files/editdata.mso (from www.midiplus.com.tw/tbox2x2.htm)
+10:27:13	Warning: 	HTML file (1966 bytes) retransferred due to lack of cache: www.midiplus.com.tw/tbox2x2.files/header.htm
+10:27:15	Error: 	"" (404) at link www.midiplus.com.tw/midi4x4.files/editdata.mso (from www.midiplus.com.tw/midi4x4.htm)
+10:27:15	Warning: 	HTML file (2032 bytes) retransferred due to lack of cache: www.midiplus.com.tw/midi4x4.files/header.htm
+10:27:17	Error: 	"" (404) at link www.midiplus.com.tw/MIDI2x2.files/editdata.mso (from www.midiplus.com.tw/MIDI2x2.htm)
+10:27:17	Warning: 	HTML file (2032 bytes) retransferred due to lack of cache: www.midiplus.com.tw/MIDI2x2.files/header.htm
+10:27:18	Error: 	"" (404) at link www.midiplus.com.tw/AudiolinkPLUS4x4.files/editdata.mso (from www.midiplus.com.tw/AudiolinkPLUS4x4.htm)
+10:27:18	Warning: 	HTML file (2059 bytes) retransferred due to lack of cache: www.midiplus.com.tw/AudiolinkPLUS4x4.files/header.htm
+10:27:36	Error: 	"" (404) at link www.midiplus.com.tw/smartface.files/editdata.mso (from www.midiplus.com.tw/smartface.htm)
+10:27:36	Warning: 	HTML file (2062 bytes) retransferred due to lack of cache: www.midiplus.com.tw/smartface.files/header.htm
+10:27:37	Error: 	"" (404) at link www.midiplus.com.tw/AudiolinkIII.files/editdata.mso (from www.midiplus.com.tw/AudiolinkIII.htm)
+10:27:37	Warning: 	HTML file (2047 bytes) retransferred due to lack of cache: www.midiplus.com.tw/AudiolinkIII.files/header.htm
+10:27:38	Error: 	"" (404) at link www.midiplus.com.tw/Studio M.files/editdata.mso (from www.midiplus.com.tw/Studio M.htm)
+10:27:38	Warning: 	HTML file (2037 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Studio M.files/header.htm
+10:27:39	Error: 	"" (404) at link www.midiplus.com.tw/Studio 2.files/editdata.mso (from www.midiplus.com.tw/Studio 2.htm)
+10:27:39	Warning: 	HTML file (2037 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Studio 2.files/header.htm
+10:27:40	Error: 	"" (404) at link www.midiplus.com.tw/miniEngine.files/editdata.mso (from www.midiplus.com.tw/miniEngine.htm)
+10:27:40	Warning: 	HTML file (2041 bytes) retransferred due to lack of cache: www.midiplus.com.tw/miniEngine.files/header.htm
+10:27:41	Error: 	"" (404) at link www.midiplus.com.tw/S-Engine.files/editdata.mso (from www.midiplus.com.tw/S-Engine.htm)
+10:27:41	Warning: 	HTML file (2035 bytes) retransferred due to lack of cache: www.midiplus.com.tw/S-Engine.files/header.htm
+10:27:41	Error: 	"" (404) at link www.midiplus.com.tw/xp88c.files/editdata.mso (from www.midiplus.com.tw/xp88c.htm)
+10:27:41	Warning: 	HTML file (2026 bytes) retransferred due to lack of cache: www.midiplus.com.tw/xp88c.files/header.htm
+10:27:42	Error: 	"" (404) at link www.midiplus.com.tw/e9.files/editdata.mso (from www.midiplus.com.tw/e9.htm)
+10:27:42	Warning: 	HTML file (2017 bytes) retransferred due to lack of cache: www.midiplus.com.tw/e9.files/header.htm
+10:27:43	Error: 	"" (404) at link www.midiplus.com.tw/Z10.files/editdata.mso (from www.midiplus.com.tw/Z10.htm)
+10:27:43	Warning: 	HTML file (2020 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Z10.files/header.htm
+10:27:44	Error: 	"" (404) at link www.midiplus.com.tw/Z11.files/editdata.mso (from www.midiplus.com.tw/Z11.htm)
+10:27:44	Warning: 	HTML file (2020 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Z11.files/header.htm
+10:27:45	Error: 	"" (404) at link www.midiplus.com.tw/Z12.files/editdata.mso (from www.midiplus.com.tw/Z12.htm)
+10:27:45	Warning: 	HTML file (2020 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Z12.files/header.htm
+10:27:46	Error: 	"" (404) at link www.midiplus.com.tw/ED6.files/editdata.mso (from www.midiplus.com.tw/ED6.htm)
+10:27:46	Warning: 	HTML file (2020 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ED6.files/header.htm
+10:27:47	Error: 	"" (404) at link www.midiplus.com.tw/ED7.files/editdata.mso (from www.midiplus.com.tw/ED7.htm)
+10:27:47	Warning: 	HTML file (2020 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ED7.files/header.htm
+10:27:47	Error: 	"" (404) at link www.midiplus.com.tw/ED8.files/editdata.mso (from www.midiplus.com.tw/ED8.htm)
+10:27:47	Warning: 	HTML file (2020 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ED8.files/header.htm
+10:27:48	Error: 	"" (404) at link www.midiplus.com.tw/ED9.files/editdata.mso (from www.midiplus.com.tw/ED9.htm)
+10:27:48	Warning: 	HTML file (2020 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ED9.files/header.htm
+10:27:49	Error: 	"" (404) at link www.midiplus.com.tw/ED9 pro.files/editdata.mso (from www.midiplus.com.tw/ED9 pro.htm)
+10:27:49	Warning: 	HTML file (2034 bytes) retransferred due to lack of cache: www.midiplus.com.tw/ED9 pro.files/header.htm
+10:27:50	Error: 	"" (404) at link www.midiplus.com.tw/sp2.files/editdata.mso (from www.midiplus.com.tw/sp2.htm)
+10:27:50	Warning: 	HTML file (2044 bytes) retransferred due to lack of cache: www.midiplus.com.tw/sp2.files/header.htm
+10:27:51	Error: 	"" (404) at link www.midiplus.com.tw/Musical.files/editdata.mso (from www.midiplus.com.tw/Musical.htm)
+10:27:51	Warning: 	HTML file (2032 bytes) retransferred due to lack of cache: www.midiplus.com.tw/Musical.files/header.htm
+
+HTTrack Website Copier/3.48-22 mirror complete in 22 minutes 57 seconds : 598 links scanned, 635 files written (46177767 bytes overall) [46263283 bytes received at 33597 bytes/sec], 423578 bytes transferred using HTTP compression in 1 files, ratio 23%
+(101 errors, 92 warnings, 0 messages)

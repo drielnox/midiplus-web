@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.tawk.to	TRUE	/	FALSE	1999999999	__cfduid	dd9af2b8a0181566d00c3f898cafdcd161480684573
+
