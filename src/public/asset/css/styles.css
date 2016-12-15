@@ -67,3 +67,19 @@ nav.menu ul li a
     {
         background-color: #A6A6A6;
     }
+    
+div .product-box
+{
+    display: inline-block;
+    position: relative;
+}
+
+    div .product-box p
+    {
+        font-weight: bold;
+        display: block;
+        background-color: rgba(0, 0, 0, 0.7);
+        position: absolute;
+        bottom: 0em;
+        padding: 1em;
+    }
