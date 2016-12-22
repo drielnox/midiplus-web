@@ -68,8 +68,14 @@ nav.menu ul li a
         background-color: #A6A6A6;
     }
     
+div #content
+{
+    background-color: white;
+}
+    
 div .product-box
 {
+    background-color: white;
     display: inline-block;
     position: relative;
 }
