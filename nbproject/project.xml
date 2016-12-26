@@ -6,6 +6,10 @@
             <name>midiplus-web</name>
         </data>
         <libraries xmlns="http://www.netbeans.org/ns/cdnjs-libraries/1">
+            <library name="backbone-localstorage.js" version="1.1.16">
+                <file localPath="src/public/asset/js/libs/backbone-localstorage.js/backbone.localStorage-min.js" path="backbone.localStorage-min.js"/>
+                <file localPath="src/public/asset/js/libs/backbone-localstorage.js/backbone.localStorage.js" path="backbone.localStorage.js"/>
+            </library>
             <library name="backbone.js" version="1.3.3">
                 <file localPath="src/public/asset/js/libs/backbone.js/backbone-min.js" path="backbone-min.js"/>
                 <file localPath="src/public/asset/js/libs/backbone.js/backbone-min.map" path="backbone-min.map"/>
