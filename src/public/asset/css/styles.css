@@ -1,14 +1,15 @@
 body 
 {
-    background-color: black;
+    background-color: #cccccc;
     color: white;
     font-family: sans-serif;
-    margin: 0 5em;
+    margin: 0;
 }
 
 body header
 {
-    
+    background-color: #000000;
+    padding: 0px 5em;
 }
 
     body header #logo
@@ -18,12 +19,13 @@ body header
 
 body footer
 {
-    
+    background-color: #000000;
+    padding: 1.5em 5em;
 }
 
 a
 {
-    color: white;
+    color: black;
     text-decoration: none;
 }
 
@@ -68,9 +70,12 @@ nav.menu ul li a
         background-color: #A6A6A6;
     }
     
-div #content
+body div#content
 {
     background-color: white;
+    padding: 1em 5em;
+    min-height: 600px;
+    color: black;
 }
     
 div .product-box
@@ -88,4 +93,9 @@ div .product-box
         position: absolute;
         bottom: 0em;
         padding: 1em;
+    }
+   
+    div .product-box a
+    {
+        color: white;
     }
