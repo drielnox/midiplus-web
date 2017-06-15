@@ -1,3 +1,7 @@
 language: php
 php:
   - nightly
+  
+deploy:
+  provider: script
+  script: deploy.sh
